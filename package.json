@@ -1,0 +1,23 @@
+{
+  "name": "tutorial6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeroBlacksmith/nodejs-tutorial-aac.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GeroBlacksmith/nodejs-tutorial-aac/issues"
+  },
+  "homepage": "https://github.com/GeroBlacksmith/nodejs-tutorial-aac#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
